@@ -1,0 +1,4 @@
+hi this is laxmi
+i am learning devops
+devops responcebulity is deploying appliacations faster to the market
+
